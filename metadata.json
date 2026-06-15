@@ -1,0 +1,6 @@
+{
+  "name": "Maze Generator",
+  "description": "An interactive, visually stunning maze generator that transforms customized text or uploaded images into fully solvable, pixel-perfect maze puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
